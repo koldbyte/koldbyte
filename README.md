@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+I'm Bhaskar.
+
+- 📙 Check out my [Resume](https://bhskr.com/Resume.pdf)
+
+
+### 📫 How to reach me?
+- [My personal Portfolio and soon to-be blog](http://bhskr.com) 
+- [LinkedIn](https://linkedin.com/in/bhaskardivya) 
+
+
+<h1 align='center'><i>Stay awesome!</i></h1>
+
 <!--
 **koldbyte/koldbyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
